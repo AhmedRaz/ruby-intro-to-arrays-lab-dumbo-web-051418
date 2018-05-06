@@ -22,7 +22,7 @@ def first_element_with_array_methods(test_array)
   return test_array.first 
 end
 
-def last_element_with array_methods(test_array)
+def last_element_with_array_methods(test_array)
   return test_array.last 
 end 
 
