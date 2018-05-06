@@ -17,3 +17,7 @@ end
 def last_element(test_array)
   return test_array[-1]
 end 
+
+def first_element_with_array_methods(test_array)
+  return test_array.first 
+end
